@@ -4,3 +4,4 @@
 * Alfonso Vázquez Prendes
 * Rodrigo Lucas Nieto
 * Joel Vázquez Anaya
+* Jonatan Chirinos Funatsu
