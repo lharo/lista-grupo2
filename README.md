@@ -2,3 +2,4 @@
 
 * Luis Esteban Haro Ayala
 * Alfonso Vázquez Prendes
+* Rodrigo Lucas Nieto
